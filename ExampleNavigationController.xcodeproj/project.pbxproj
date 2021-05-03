@@ -13,6 +13,7 @@
 		2417083A263F1B51002D0449 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24170838263F1B51002D0449 /* Main.storyboard */; };
 		2417083C263F1B52002D0449 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2417083B263F1B52002D0449 /* Assets.xcassets */; };
 		2417083F263F1B52002D0449 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2417083D263F1B52002D0449 /* LaunchScreen.storyboard */; };
+		24170848263F2020002D0449 /* CoatRoomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24170847263F2020002D0449 /* CoatRoomViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2417083B263F1B52002D0449 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2417083E263F1B52002D0449 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		24170840263F1B52002D0449 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24170847263F2020002D0449 /* CoatRoomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoatRoomViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				24170832263F1B51002D0449 /* AppDelegate.swift */,
+				24170847263F2020002D0449 /* CoatRoomViewController.swift */,
 				24170834263F1B51002D0449 /* SceneDelegate.swift */,
 				24170836263F1B51002D0449 /* ViewController.swift */,
 				24170838263F1B51002D0449 /* Main.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				24170837263F1B51002D0449 /* ViewController.swift in Sources */,
 				24170833263F1B51002D0449 /* AppDelegate.swift in Sources */,
+				24170848263F2020002D0449 /* CoatRoomViewController.swift in Sources */,
 				24170835263F1B51002D0449 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
