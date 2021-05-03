@@ -14,6 +14,7 @@
 		2417083C263F1B52002D0449 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2417083B263F1B52002D0449 /* Assets.xcassets */; };
 		2417083F263F1B52002D0449 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2417083D263F1B52002D0449 /* LaunchScreen.storyboard */; };
 		24170848263F2020002D0449 /* CoatRoomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24170847263F2020002D0449 /* CoatRoomViewController.swift */; };
+		2417084C263FC55C002D0449 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2417084B263FC55C002D0449 /* BaseViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2417083E263F1B52002D0449 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		24170840263F1B52002D0449 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		24170847263F2020002D0449 /* CoatRoomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoatRoomViewController.swift; sourceTree = "<group>"; };
+		2417084B263FC55C002D0449 /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				2417083B263F1B52002D0449 /* Assets.xcassets */,
 				2417083D263F1B52002D0449 /* LaunchScreen.storyboard */,
 				24170840263F1B52002D0449 /* Info.plist */,
+				2417084B263FC55C002D0449 /* BaseViewController.swift */,
 			);
 			path = ExampleNavigationController;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			files = (
 				24170837263F1B51002D0449 /* ViewController.swift in Sources */,
 				24170833263F1B51002D0449 /* AppDelegate.swift in Sources */,
+				2417084C263FC55C002D0449 /* BaseViewController.swift in Sources */,
 				24170848263F2020002D0449 /* CoatRoomViewController.swift in Sources */,
 				24170835263F1B51002D0449 /* SceneDelegate.swift in Sources */,
 			);

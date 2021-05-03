@@ -67,7 +67,7 @@
         <!--Coat RoomView Controller-->
         <scene sceneID="0sj-5F-dZO">
             <objects>
-                <viewController id="pDm-IW-cN2" userLabel="Coat RoomView Controller" sceneMemberID="viewController">
+                <viewController id="pDm-IW-cN2" userLabel="Coat RoomView Controller" customClass="BaseViewController" customModule="ExampleNavigationController" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="ihd-kQ-vTH">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -123,7 +123,7 @@
         <!--Library View Controller-->
         <scene sceneID="ruU-fU-a4F">
             <objects>
-                <viewController id="mI8-bN-YG5" userLabel="Library View Controller" sceneMemberID="viewController">
+                <viewController id="mI8-bN-YG5" userLabel="Library View Controller" customClass="BaseViewController" customModule="ExampleNavigationController" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="ek7-90-U9G">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -164,10 +164,10 @@
             </objects>
             <point key="canvasLocation" x="2850.7246376811595" y="-907.36607142857133"/>
         </scene>
-        <!--View Controller-->
+        <!--Base View Controller-->
         <scene sceneID="oL9-tj-key">
             <objects>
-                <viewController id="bvs-yc-qyb" sceneMemberID="viewController">
+                <viewController id="bvs-yc-qyb" customClass="BaseViewController" customModule="ExampleNavigationController" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="ias-bp-TOY">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -223,10 +223,10 @@
             </objects>
             <point key="canvasLocation" x="4134.7826086956529" y="-907.36607142857133"/>
         </scene>
-        <!--View Controller-->
+        <!--Base View Controller-->
         <scene sceneID="r1p-aD-Tn3">
             <objects>
-                <viewController id="1EA-Vc-puc" sceneMemberID="viewController">
+                <viewController id="1EA-Vc-puc" customClass="BaseViewController" customModule="ExampleNavigationController" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="wBg-qv-WVG">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -253,7 +253,7 @@
         <!--Dinning Room View Controller-->
         <scene sceneID="gf4-3b-01r">
             <objects>
-                <viewController id="bbs-zm-AxS" userLabel="Dinning Room View Controller" sceneMemberID="viewController">
+                <viewController id="bbs-zm-AxS" userLabel="Dinning Room View Controller" customClass="BaseViewController" customModule="ExampleNavigationController" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="ApY-Uf-rTo">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -292,10 +292,10 @@
             </objects>
             <point key="canvasLocation" x="2912" y="1583"/>
         </scene>
-        <!--View Controller-->
+        <!--Base View Controller-->
         <scene sceneID="f1u-g6-ZMQ">
             <objects>
-                <viewController id="KbT-ww-XOP" sceneMemberID="viewController">
+                <viewController id="KbT-ww-XOP" customClass="BaseViewController" customModule="ExampleNavigationController" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="cKy-2C-DIW">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -337,10 +337,10 @@
             </objects>
             <point key="canvasLocation" x="4134.7826086956529" y="1592.4107142857142"/>
         </scene>
-        <!--View Controller-->
+        <!--Base View Controller-->
         <scene sceneID="gge-IF-OaB">
             <objects>
-                <viewController id="WWl-3i-X5b" sceneMemberID="viewController">
+                <viewController id="WWl-3i-X5b" customClass="BaseViewController" customModule="ExampleNavigationController" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="E5m-5H-W4R">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -371,7 +371,7 @@
         <!--Stairs Up View Controller-->
         <scene sceneID="Lv7-fg-r7a">
             <objects>
-                <viewController id="d8p-tB-cmn" userLabel="Stairs Up View Controller" sceneMemberID="viewController">
+                <viewController id="d8p-tB-cmn" userLabel="Stairs Up View Controller" customClass="BaseViewController" customModule="ExampleNavigationController" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8XS-3w-RpO">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -417,10 +417,10 @@
             </objects>
             <point key="canvasLocation" x="2851" y="594"/>
         </scene>
-        <!--View Controller-->
+        <!--Base View Controller-->
         <scene sceneID="a2c-o5-HAB">
             <objects>
-                <viewController id="2Mk-7z-WVM" sceneMemberID="viewController">
+                <viewController id="2Mk-7z-WVM" customClass="BaseViewController" customModule="ExampleNavigationController" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="idf-ha-mQV">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -444,10 +444,10 @@
             </objects>
             <point key="canvasLocation" x="4114" y="-131"/>
         </scene>
-        <!--View Controller-->
+        <!--Base View Controller-->
         <scene sceneID="Y6g-fP-zTQ">
             <objects>
-                <viewController id="eQv-Xc-j4t" sceneMemberID="viewController">
+                <viewController id="eQv-Xc-j4t" customClass="BaseViewController" customModule="ExampleNavigationController" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="jN8-cs-ud0">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -480,10 +480,10 @@
             </objects>
             <point key="canvasLocation" x="5348" y="-907"/>
         </scene>
-        <!--View Controller-->
+        <!--Base View Controller-->
         <scene sceneID="GyD-fr-wah">
             <objects>
-                <viewController id="pR9-Q8-EgP" sceneMemberID="viewController">
+                <viewController id="pR9-Q8-EgP" customClass="BaseViewController" customModule="ExampleNavigationController" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="LUi-AK-dn5">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -510,7 +510,7 @@
         <!--Bathroom View Controller-->
         <scene sceneID="8d1-Wk-kek">
             <objects>
-                <viewController id="O8X-Gz-6Wj" userLabel="Bathroom View Controller" sceneMemberID="viewController">
+                <viewController id="O8X-Gz-6Wj" userLabel="Bathroom View Controller" customClass="BaseViewController" customModule="ExampleNavigationController" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Dn5-r2-EJS">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -534,11 +534,11 @@
             </objects>
             <point key="canvasLocation" x="4135" y="594"/>
         </scene>
-        <!--View Controller-->
+        <!--Base View Controller-->
         <scene sceneID="iPb-wc-Gua">
             <objects>
-                <viewController id="Cvk-6G-1Ax" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="V5g-I5-0R3">
+                <viewController id="Cvk-6G-1Ax" customClass="BaseViewController" customModule="ExampleNavigationController" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="V5g-I5-0R3" customClass="Base">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
@@ -571,10 +571,10 @@
             </objects>
             <point key="canvasLocation" x="5348" y="-131"/>
         </scene>
-        <!--View Controller-->
+        <!--Base View Controller-->
         <scene sceneID="4TC-qe-LfZ">
             <objects>
-                <viewController id="ctA-29-hoN" sceneMemberID="viewController">
+                <viewController id="ctA-29-hoN" customClass="BaseViewController" customModule="ExampleNavigationController" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="YAB-00-e3Y">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
